@@ -8,10 +8,10 @@
   --font-primary: 'Poppins', sans-serif;
   --font-secondary: 'Arvo', serif;
   --font-code: 'Roboto', monospace;
-  --bg-color: #2c002e;
-  --font-color: #f55a01;
-  --btn-bg-color: #57a5ff;
-  --accent-color: #4335ff;
+  --bg-color: #585858;
+  --font-color: #ffffff;
+  --btn-bg-color: #000000;
+  --accent-color: #90b0b1;
   --header-shadow: #000 0px 0px 5px;
 }
 
